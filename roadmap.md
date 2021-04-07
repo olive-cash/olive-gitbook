@@ -1,0 +1,34 @@
+---
+description: 'What has been done, what we are doing now and what we are planning to do'
+---
+
+# Roadmap
+
+**✅Done:**  
+1st April 2021 — Launch of Olive.cash with huge APY for Pairs and Single   
+2nd April 2021 — Avalanche farm launch with few initial pools.  
+3rd April 2021 — [Dex.Guru](https://dex.guru/token/0x617724974218a18769020a70162165a539c07e8a-bsc) listing.  
+5th April 2021 — Avalanche Swap and Farm launch.  
+6th April 2021 — [LiveCoinWatch](https://www.livecoinwatch.com/price/OliveCashToken-OLIVE) listing.  
+7th April 2021 — [DappRadar](https://dappradar.com/binance-smart-chain/defi/olive-cash) listing.  
+  
+⏱**In progress:**  
+_Listing._ CoinMarketCap  — Request sent. Waiting for review.  
+_Listing._ CoinGecko — Request sent. Waiting for review.  
+_Listing._ BSCscan — Request sent. Waiting for review.  
+_Feature._ Estimation of the total staked liquidity in $.  
+_Partnership_. Two secret projects.  
+_Feature_. Info site like Pancakes.  
+_Feature:_ Tokenomics updates. Autoburn after buyback on Community demand.  
+  
+🚀**TODO:**  
+April 2021 — **Olive Garden**. A place where we distribute our Partners tokens for Olive token holders.  
+April 2021 — **Olive Auto Watering**. Implement vaults with auto compound features.  
+May 2021 — **Bridge** Avalanche &lt;-&gt; BSC for Olive tokens \(check community opinion about priority\).  
+June 2021 — **NFT** marketplace where people can buy and sell NFTs using only Olive tokens.  
+  
+👨‍💻**Backlog:**  
+_Marketing._ Compose Burning/Airdrop milestones.  
+_Marketing._ Bounty program for code contributors, volunteers, media influencers.  
+****
+
