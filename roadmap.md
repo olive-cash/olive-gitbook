@@ -11,12 +11,13 @@ description: 'What has been done, what we are doing now and what we are planning
 5th April 2021 — Avalanche Swap and Farm launch.  
 6th April 2021 — [LiveCoinWatch](https://www.livecoinwatch.com/price/OliveCashToken-OLIVE) listing.  
 7th April 2021 — [DappRadar](https://dappradar.com/binance-smart-chain/defi/olive-cash) listing.  
+8th April 2021 — [markr.io](https://t.co/NkazORLlX1?amp=1) listing.  
+8th April 2021 — [Beefy](https://twitter.com/OliveCashBsc/status/1380092944493993985) Valuls were added.  
   
 ⏱**In progress:**  
 _Listing._ CoinMarketCap  — Request sent. Waiting for review.  
 _Listing._ CoinGecko — Request sent. Waiting for review.  
 _Listing._ BSCscan — Request sent. Waiting for review.  
-_Listing_ [markr.io](https://t.co/NkazORLlX1?amp=1) - All info was provided. Waiting for release.  
 _Feature._ Estimation of the total staked liquidity in $ \(Avax imlemented, BSC soon\).  
 _Partnership_. Two secret projects.  
 _Feature_. Info site like Pancakes/Pangaline.  
