@@ -41,7 +41,10 @@ Factory ****[Reference documentation](https://uniswap.org/docs/v2/smart-contract
 [USDT/AVAX](https://cchain.explorer.avax.network/address/0xbfc3C72Bab7252341dC90A1E85797Ebd8C79c338/transactions)  
 [SUSHI/AVAX](https://cchain.explorer.avax.network/address/0xbcD81aAA76D9C1E3aED31c315761c0D9779751B5/transactions)  
 [ETH/AVAX](https://cchain.explorer.avax.network/address/0x76FbCE48D9dCE3d04bfAc318d1fDeb3a78e903A9/transactions)  
-  
+[WBTC/AVAX ](https://cchain.explorer.avax.network/address/0x79C1B4Ee613F29a8c0aae563Ef445317D99a6906/transactions)  
+[PNG/AVAX](https://cchain.explorer.avax.network/address/0xaD786Dfe6aC4a68dd3F9a5400DdeE5DedD20d109/transactions)  
+[DAI/USDT](https://cchain.explorer.avax.network/address/0xd3566eC8Cdf8cb4E66B9F958ddb47E225C51E58b/transactions)
+
   
 **🔐Safety and Audit**
 
