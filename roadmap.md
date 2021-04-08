@@ -16,9 +16,10 @@ description: 'What has been done, what we are doing now and what we are planning
 _Listing._ CoinMarketCap  — Request sent. Waiting for review.  
 _Listing._ CoinGecko — Request sent. Waiting for review.  
 _Listing._ BSCscan — Request sent. Waiting for review.  
-_Feature._ Estimation of the total staked liquidity in $.  
+_Listing_ [markr.io](https://t.co/NkazORLlX1?amp=1) - All info was provided. Waiting for release.  
+_Feature._ Estimation of the total staked liquidity in $ \(Avax imlemented, BSC soon\).  
 _Partnership_. Two secret projects.  
-_Feature_. Info site like Pancakes.  
+_Feature_. Info site like Pancakes/Pangaline.  
 _Feature:_ Tokenomics updates. Autoburn after buyback on Community demand.  
   
 🚀**TODO:**  
