@@ -20,7 +20,7 @@ _Listing._ CoinGecko — Request sent. Waiting for review.
 _Listing._ BSCscan — Request sent. Waiting for review.  
 _Feature._ Estimation of the total staked liquidity in $ \(Avax imlemented, BSC soon\).  
 _Partnership_. Two secret projects.  
-_Feature_. Info site like Pancakes/Pangaline.  
+_Feature_. Info site like Pancakes/Pangolin.  
 _Feature:_ Tokenomics updates. Autoburn after buyback on Community demand.  
   
 🚀**TODO:**  
