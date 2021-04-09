@@ -24,7 +24,7 @@ Block to start staking: 914777
 
 **Yield farming compensations**
 
-For brave Avalanche liquidity providers and yield farmers, OliveSwap offers excellent rewards. Out of the small **0.2%**swap compensation, OliveSwap grants roughly **0.17% of every swap** directly to liquidity providers while **0.03%** is sent to treasury. Treasury will be used for developer needs, marketing and token burns.  
+For brave Avalanche liquidity providers and yield farmers, OliveSwap offers excellent rewards. Out of the small **0.2%** swap compensation, OliveSwap grants roughly **0.17% of every swap** directly to liquidity providers while **0.03%** is sent to treasury. Treasury will be used for developer needs, marketing and token burns.  
   
 **👨‍💻Technical details:**  
   
