@@ -1,12 +1,12 @@
 ---
 description: >-
-  Olive.Garden Pools: its a place where new tokens meet the Olive.Cash
+  Olive Garden Pools: its a place where new tokens meet the Olive.Cash
   community!
 ---
 
-# Olive.Garden
+# Olive Garden
 
-[Olive.Garden](https://avax.olive.cash/pools) ****Pools allow Avalanche chain projects to bootstrap adoption by distributing a portion of their tokens to OLIVE token holders.
+[Olive Garden](https://avax.olive.cash/pools) ****Pools allow Avalanche chain projects to bootstrap adoption by distributing a portion of their tokens to OLIVE token holders.
 
 Olive.Garden Pool is split into two sections: Core and Community.
 
