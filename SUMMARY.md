@@ -21,3 +21,7 @@
 * [Telegram News](https://t.me/olive_cash)
 * [Telegram Community](https://t.me/olive_cash_chat)
 
+---
+
+* [FAQ](faq.md)
+
