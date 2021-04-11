@@ -23,5 +23,5 @@ Projects will also receive an immediate default listing on the Olive.Cash interf
   
 **I have a project and want to participate!**  
   
-Just start filling [this form](https://forms.gle/SUGbyUsMQip9uu1P8).
+Just start filling [this form](https://forms.gle/SUGbyUsMQip9uu1P8). We will reach you and setup everything as soon as possible.
 
