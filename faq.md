@@ -1,5 +1,5 @@
 ---
-description: Popular Answers and Questions for our community
+description: Popular Questions from our community
 ---
 
 # FAQ
