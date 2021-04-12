@@ -16,6 +16,9 @@ We are working on implementation of the Olive Fire Show. Check our Roadmap!
 **When rug?**  
 Why rug with we can build amazing things, working on this project really drive us.  
   
+**When audit?**  
+Our code is audited by many community devs, and verified by time. We can discuss with you any line of code \(check our repo\)  
+  
 **When bridge?**  
 Yes, we planned to build a bridge between two chains \(BSC&lt;&gt;Avalanche\) on the first day of the project. But now move implementation of bridge to one month. Cause we can't mint Olive tokens in both chains and we have to motivate our Olive holder to take part in liquidity providing for special Bridge Pool.  
   
