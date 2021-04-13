@@ -7,6 +7,11 @@ description: Popular Questions from our community
 **Give me your money and I teach you marketing \(spam, shilling, etc\)**  
 Plan is to have a natural grow by building good product and making few partnership with other BSC and AVAX projects. We dont really want to just spam this group everywhere
 
+**Why OliveSwap is better or have any value added against other DEX?**  
+We really enjoy the DeFi movement. We studied a lot of projects in ETH/BSC/Avax chains since 2017. And we build our own solid infrastructure with the Mixture of Best Practice and Solutions.   
+- we  are going to pay many Olives for those who provide liquidity via OliveSwap \(ARP is the biggest on Avalanche\)  
+- we are great developers, and deliver more features than others DEXes.  
+  
 **Where Timelock?**  
 Hey guys regarding timelock! We didn't introduce one yet, because we gonna add new farms regularly. There is no any ruggable function in contract, you can review by yourself. No migrator, no tokenPerBlock change, not even a Syrup bug. Nothing that can rug you, so no worries about that. If you find any reason to add timelock, we will add it for you.
 

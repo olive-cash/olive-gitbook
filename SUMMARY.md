@@ -3,6 +3,9 @@
 * [Intro](README.md)
 * [Roadmap](roadmap.md)
 * [Binance Smart Chain](bsc.md)
+* [Olive Garden](olive-garden.md)
+* [Olive Auto Watering](olive-auto-watering.md)
+* [Olive Fire Show](olive-fire-show.md)
 * [FAQ](faq.md)
 * [Links](links.md)
 
@@ -10,9 +13,6 @@
 
 * [Avalanche](avalanche-1/avalanche.md)
 * [Analytics](avalanche-1/analytics.md)
-* [Olive Auto Watering](avalanche-1/olive-auto-watering.md)
-* [Olive Garden](avalanche-1/olive-garden.md)
-* [Olive Fire Show](avalanche-1/olive-fire-show.md)
 
 ## Links <a id="links-1"></a>
 
