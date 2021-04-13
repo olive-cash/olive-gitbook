@@ -14,9 +14,8 @@ description: 'What has been done, what we are doing now and what we are planning
 8th April 2021 — [markr.io](https://t.co/NkazORLlX1?amp=1) listing.  
 8th April 2021 — [Beefy](https://twitter.com/OliveCashBsc/status/1380092944493993985) Valuls were added.  
 9th April 2021 — [info.olive.cash](https://info.olive.cash) Analytics site was released.  
-11th April 2021 - [Olive Garden](https://olive-cash.medium.com/welcome-to-the-olive-garden-pool-d5cf3385482a). A place where we distribute our Partners tokens for Olive token holders.  
-12th April 2021 — [Avax-projects](https://www.avax-projects.com/) and [DefiLlama](https://defillama.com/home) listings.  
-  
+11th April 2021 - [Olive Garden](https://olive-cash.medium.com/welcome-to-the-olive-garden-pool-d5cf3385482a) was introduced and implemented on Avalanche chain.  
+12th April 2021 — [Avax-projects](https://www.avax-projects.com/) and [DefiLlama](https://defillama.com/protocol/olive-cash) listings.  
   
 ⏱**In progress:**  
 _Listing._ CoinMarketCap  — Request sent. Waiting for review.  
