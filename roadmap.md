@@ -8,7 +8,7 @@ description: 'What has been done, what we are doing now and what we are planning
 1st April 2021 — Launch of Olive.cash with huge APY for Pairs and Single   
 2nd April 2021 — Avalanche farm launch with few initial pools.  
 3rd April 2021 — [Dex.Guru](https://dex.guru/token/0x617724974218a18769020a70162165a539c07e8a-bsc) listing.  
-5th April 2021 — Avalanche Swap and Farm launch.  
+5th April 2021 — [Avalanche Swap](https://swap.olive.cash/#/swap?outputCurrency=0x617724974218A18769020A70162165A539c07E8a) and [Farm](https://avax.olive.cash/farms) launch.  
 6th April 2021 — [LiveCoinWatch](https://www.livecoinwatch.com/price/OliveCashToken-OLIVE) listing.  
 7th April 2021 — [DappRadar](https://dappradar.com/binance-smart-chain/defi/olive-cash) listing.  
 8th April 2021 — [markr.io](https://t.co/NkazORLlX1?amp=1) listing.  
