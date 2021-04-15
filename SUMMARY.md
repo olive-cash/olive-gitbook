@@ -12,6 +12,7 @@
 
 * [Avalanche](avalanche-1/avalanche.md)
 * [Analytics](avalanche-1/analytics.md)
+* [Audit](avalanche-1/audit.md)
 
 ## BSC <a id="bsc-1"></a>
 
