@@ -19,10 +19,12 @@ description: 'What has been done, what we are doing now and what we are planning
 12-14th April 2021 — [SporeFinance](https://sporefinance.co/#/) and [ELK.Finance](http://elk.finance) added to [Olive Garden](https://avax.olive.cash/pools) on Avalanche.  
 14th April 2021 — [BSC](https://www.bscscan.com/address/0x617724974218A18769020A70162165A539c07E8a) and [vfat.tools](https://vfat.tools/avax/olive/) listings.  
 15th April 2021 — Applied to Audit by [Techrate](https://techrate.org/)  
+16th April 2021 — Partnership with Snowballs: [Let’s play Snowballs in Olive Garden.](https://olive-cash.medium.com/lets-play-snowballs-in-olive-garden-2798c455853)  
   
 ⏱**In progress:**  
 _Listing._ CoinMarketCap  — Request sent. Waiting for review.  
 _Listing._ CoinGecko — Request sent. Waiting for review.  
+_Feature._ Site redesign. Add table of Farms for convient navigation.  
 _Feature._ Estimation of the total staked liquidity in $ \(Avax imlemented, BSC soon\).  
 _Feature_. **Olive Auto Watering**. Implement vaults with auto compound features.  
 _Feature:_ Tokenomics updates. Autoburn after buyback on Community demand.
