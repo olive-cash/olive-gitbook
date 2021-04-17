@@ -34,7 +34,7 @@ _Feature:_ Tokenomics updates. Autoburn after buyback on Community demand.
 April 2021 — 10 new Listings, Add 5 Partners to Olive Garden.  
 April 2021 — **TOP 3 Avalance DEX based on TVL**.  
 May 2021 — **NFT** marketplace where people can buy and sell NFTs using only Olive tokens.  
-June 2021 — **Bridge** Avalanche &lt;-&gt; BSC for Olive tokens \(check community opinion about priority\).  
+In future — **Bridge** Avalanche &lt;-&gt; BSC for Olive tokens \(check community opinion about priority\).  
   
 👨‍💻**Backlog:**  
 _Marketing._ Compose Burning/Airdrop milestones.  
