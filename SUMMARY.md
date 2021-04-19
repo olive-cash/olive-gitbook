@@ -12,12 +12,11 @@
 
 * [Avalanche](avalanche-1/avalanche.md)
 * [Analytics](avalanche-1/analytics.md)
-* [Audit](avalanche-1/audit.md)
 
 ## BSC <a id="bsc-1"></a>
 
 * [Binance Smart Chain](bsc-1/bsc.md)
-* [Audit](bsc-1/audit.md)
+* [Audit](bsc-1/audit-1.md)
 
 ## Links <a id="links-1"></a>
 
