@@ -20,10 +20,11 @@ description: 'What has been done, what we are doing now and what we are planning
 14th April 2021 — [BSC](https://www.bscscan.com/address/0x617724974218A18769020A70162165A539c07E8a) and [vfat.tools](https://vfat.tools/avax/olive/) listings.  
 15th April 2021 — Applied to Audit by [Techrate](https://techrate.org/)  
 16th April 2021 — Partnership with Snowballs: [Let’s play Snowballs in Olive Garden.](https://olive-cash.medium.com/lets-play-snowballs-in-olive-garden-2798c455853)  
+19th April 2021 — Farm and Pool with Snowballs were added.  
+20th April 2021 —[Nomics](https://nomics.com/assets/olive2-olivecash-token) and [CoinGecko](https://www.coingecko.com/en/coins/olive-cash) listings.  
   
 ⏱**In progress:**  
 _Listing._ CoinMarketCap  — Request sent. Waiting for review.  
-_Listing._ CoinGecko — Request sent. Waiting for review.  
 _Feature._ Site redesign. Add table of Farms for convient navigation.  
 _Feature._ Estimation of the total staked liquidity in $ \(Avax imlemented, BSC soon\).  
 _Feature_. **Olive Auto Watering**. Implement vaults with auto compound features.  
