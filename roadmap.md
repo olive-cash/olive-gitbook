@@ -22,9 +22,12 @@ description: 'What has been done, what we are doing now and what we are planning
 16th April 2021 — Partnership with Snowballs: [Let’s play Snowballs in Olive Garden.](https://olive-cash.medium.com/lets-play-snowballs-in-olive-garden-2798c455853)  
 19th April 2021 — Farm and Pool with Snowballs were added.  
 20th April 2021 —[Nomics](https://nomics.com/assets/olive2-olivecash-token) and [CoinGecko](https://www.coingecko.com/en/coins/olive-cash) listings.  
-21th April 2021 — Partnership with SporeFinance: [You will be drowning in Spores](https://olive-cash.medium.com/you-will-be-drowning-in-spores-4529e6aa7ee1)  
+21st April 2021 — Partnership with SporeFinance: [You will be drowning in Spores](https://olive-cash.medium.com/you-will-be-drowning-in-spores-4529e6aa7ee1)  
+26th April 2021 — BSC side was migrated to v2 PancakeSwap LP.  
+29th April 2021 — Big token burn. BSC side ~30k [$Olive](https://twitter.com/search?q=%24Olive&src=cashtag_click) and Avalanche side ~1000 [$Olive](https://twitter.com/search?q=%24Olive&src=cashtag_click) to burn.  
   
 ⏱**In progress:**  
+_Listing._ _CoinGecko -_ update info.  
 _Listing._ CoinMarketCap  — Request sent. Waiting for review.  
 _Feature._ Site redesign. Add table of Farms for convient navigation.  
 _Feature._ Estimation of the total staked liquidity in $ \(Avax imlemented, BSC soon\).  
