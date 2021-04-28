@@ -25,6 +25,7 @@ description: 'What has been done, what we are doing now and what we are planning
 21st April 2021 — Partnership with SporeFinance: [You will be drowning in Spores](https://olive-cash.medium.com/you-will-be-drowning-in-spores-4529e6aa7ee1)  
 26th April 2021 — BSC side was migrated to v2 PancakeSwap LP.  
 27th April 2021 — Two new Pools in the Olive Garden - [Winter never ends](https://olive-cash.medium.com/%EF%B8%8Fwinter-never-ends-9f09645e0516)  
+28th April 2021 — New Pool and Farm in the Olive Garden - [Welcome LydiaFinance](https://olive-cash.medium.com/lydia-finance-9f1593011917)  
 29th April 2021 — Big token burn. BSC side ~30k [$Olive](https://twitter.com/search?q=%24Olive&src=cashtag_click) and Avalanche side ~1000 [$Olive](https://twitter.com/search?q=%24Olive&src=cashtag_click) to burn.  
   
 ⏱**In progress:**  
