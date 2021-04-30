@@ -27,7 +27,7 @@ description: 'What has been done, what we are doing now and what we are planning
 27th April 2021 — Two new Pools in the Olive Garden - [Winter never ends](https://olive-cash.medium.com/%EF%B8%8Fwinter-never-ends-9f09645e0516)  
 28th April 2021 — New Pool and Farm in the Olive Garden - [Welcome LydiaFinance](https://olive-cash.medium.com/lydia-finance-9f1593011917)  
 29th April 2021 — Big token burn! BSC side ~30k [$Olive](https://bscscan.com/tx/0x9cc359629300144590a3b12c9ca245a5aa5e516a8a9dabadab2fa0d70a2fd5d3) and Avalanche side ~1000 [$Olive](https://cchain.explorer.avax.network/tx/0x7e4d319d96e7c9c9410d8a4531d23d7adce5009e1784131ebefa4ded4e6d3686/token-transfers) to burn.  
-30th April 2021 — Spora Pool, 2000 new Wallets Airdrop.  
+30th April 2021 — Spora Pool BSC, [2000 new Wallets Airdrop](https://twitter.com/OliveCashBsc/status/1388094476577558532).  
   
 ⏱**In progress:**  
 _Listing._ _CoinGecko -_ update info.  
