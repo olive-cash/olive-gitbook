@@ -9,7 +9,7 @@ Plan is to have a natural grow by building good product and making few partnersh
 
 **Why OliveSwap is better or have any value added against other DEX?**  
 We really enjoy the DeFi movement. We studied a lot of projects in ETH/BSC/Avax chains since 2017. And we build our own solid infrastructure with the Mixture of Best Practice and Solutions.   
-- we  are going to pay many Olives for those who provide liquidity via OliveSwap \(ARP is the biggest on Avalanche\)  
+- we  are going to pay many Olives for those who provide liquidity via OliveSwap \(APR is the biggest on Avalanche\)  
 - we are great developers, and deliver more features than others DEXes.  
   
 **Where Timelock?**  
