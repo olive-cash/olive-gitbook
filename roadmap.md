@@ -28,9 +28,9 @@ description: 'What has been done, what we are doing now and what we are planning
 28th April 2021 — New Pool and Farm in the Olive Garden - [Welcome LydiaFinance](https://olive-cash.medium.com/lydia-finance-9f1593011917)  
 29th April 2021 — Big token burn! BSC side ~30k [$Olive](https://bscscan.com/tx/0x9cc359629300144590a3b12c9ca245a5aa5e516a8a9dabadab2fa0d70a2fd5d3) and Avalanche side ~1000 [$Olive](https://cchain.explorer.avax.network/tx/0x7e4d319d96e7c9c9410d8a4531d23d7adce5009e1784131ebefa4ded4e6d3686/token-transfers) to burn.  
 30th April 2021 — Spora Pool BSC, [2000 new Wallets Airdrop](https://twitter.com/OliveCashBsc/status/1388094476577558532).  
+3rd May 2021 — Spora Pool Avax, Doge Pool BSC.  
   
 ⏱**In progress:**  
-_Listing._ _CoinGecko -_ update info.  
 _Listing._ CoinMarketCap  — Request sent. Waiting for review.  
 _Feature._ Site redesign. Add table of Farms for convient navigation.  
 _Feature._ Estimation of the total staked liquidity in $ \(Avax imlemented, BSC soon\).  
@@ -39,9 +39,8 @@ _Feature:_ Tokenomics updates. Autoburn after buyback on Community demand.
 
   
 🚀**TODO:**  
-April 2021 — 10 new Listings, Add 5 Partners to Olive Garden.  
-April 2021 — **TOP 3 Avalance DEX based on TVL**.  
-May 2021 — Comminity demand features: Lottery, IFO etc.  
+May 2021 — **TOP 3 Avalance DEX based on TVL**.  
+May 2021 — Comminity demand features: **Lottery**, IFO etc.  
 May 2021 — **NFT** marketplace where people can buy and sell NFTs using only Olive tokens.  
 In future — **Bridge** Avalanche &lt;-&gt; BSC for Olive tokens \(check community opinion about priority\).  
   

@@ -4,6 +4,12 @@ description: Popular Questions from our community
 
 # FAQ
 
+**How to use OliveCash on Avalanche with TrustWallet?**  
+[Video tutorial](https://www.youtube.com/watch?v=oqZAf_alvG0)  
+  
+**How to configure Metamask to connect Avalanche?**  
+[https://support.avalabs.org/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche](https://support.avalabs.org/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche)  
+  
 **Give me your money and I teach you marketing \(spam, shilling, etc\)**  
 Plan is to have a natural grow by building good product and making few partnership with other BSC and AVAX projects. We dont really want to just spam this group everywhere
 
