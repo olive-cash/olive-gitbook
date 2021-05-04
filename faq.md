@@ -4,6 +4,15 @@ description: Popular Questions from our community
 
 # FAQ
 
+**How can I buy $Olive on Avalanche Chain?**  
+1. Buy $AVAX on exchange  
+2. Withdraw $AVAX to your [X-Chain address](https://wallet.avax.network)  
+3. CrossChain Swap your $AVAX from X-Chain &gt; C-Chain \(in https://wallet.avax.network\)   
+4. Create a new Wallet with MetaMask \(Browser Extension\)  
+5. [Add the Avalanche Network to MetaMask](https://support.avalabs.org/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche)  
+6. Send your $AVAX from [C-Chain wallet to your MetaMask Browser Extension](https://wallet.avax.network) Wallet address  
+7. Go to [Swap and Buy $Olive](%20https://swap.olive.cash/#/swap?outputCurrency=0x617724974218A18769020A70162165A539c07E8a)   
+  
 **How to use OliveCash on Avalanche with TrustWallet?**  
 [Video tutorial](https://www.youtube.com/watch?v=oqZAf_alvG0)  
   
