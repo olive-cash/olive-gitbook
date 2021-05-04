@@ -28,7 +28,8 @@ description: 'What has been done, what we are doing now and what we are planning
 28th April 2021 — New Pool and Farm in the Olive Garden - [Welcome LydiaFinance](https://olive-cash.medium.com/lydia-finance-9f1593011917)  
 29th April 2021 — Big token burn! BSC side ~30k [$Olive](https://bscscan.com/tx/0x9cc359629300144590a3b12c9ca245a5aa5e516a8a9dabadab2fa0d70a2fd5d3) and Avalanche side ~1000 [$Olive](https://cchain.explorer.avax.network/tx/0x7e4d319d96e7c9c9410d8a4531d23d7adce5009e1784131ebefa4ded4e6d3686/token-transfers) to burn.  
 30th April 2021 — Spora Pool BSC, [2000 new Wallets Airdrop](https://twitter.com/OliveCashBsc/status/1388094476577558532).  
-3rd May 2021 — Spora Pool Avax, Doge Pool BSC.  
+3rd May 2021 — [Spora Pool Avax](https://olive-cash.medium.com/now-spores-are-everywhere-5d73c8e9fad7), [Doge Pool BSC](https://olive-cash.medium.com/lets-send-dogs-to-the-moon-40c5832e261).  
+5rd May 2021 — Gondola Finance Pool and Farm at Avalanche.  
   
 ⏱**In progress:**  
 _Listing._ CoinMarketCap  — Request sent. Waiting for review.  
