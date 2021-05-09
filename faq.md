@@ -13,7 +13,7 @@ description: Popular Questions from our community
 6. Send your $AVAX from [C-Chain wallet to your MetaMask Browser Extension](https://wallet.avax.network) Wallet address  
 7. Go to [Swap and Buy $Olive](%20https://swap.olive.cash/#/swap?outputCurrency=0x617724974218A18769020A70162165A539c07E8a)   
   
-**How to use OliveCash on Avalanche with TrustWallet?**  
+**How to use OliveCash on BSC with TrustWallet?**  
 [Video tutorial](https://www.youtube.com/watch?v=oqZAf_alvG0)  
   
 **How to configure Metamask to connect Avalanche?**  
