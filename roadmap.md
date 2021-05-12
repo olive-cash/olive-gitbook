@@ -31,19 +31,21 @@ description: 'What has been done, what we are doing now and what we are planning
 3rd May 2021 — [Spora Pool Avax](https://olive-cash.medium.com/now-spores-are-everywhere-5d73c8e9fad7), [Doge Pool BSC](https://olive-cash.medium.com/lets-send-dogs-to-the-moon-40c5832e261).  
 5th May 2021 — [Gondola Finance Pool and Farm at Avalanche.](https://olive-cash.medium.com/to-new-heights-with-gondola-7d0d7d210e24?source=follow_footer---------0----------------------------)  
 7th May 2021 — [AquaGoat Pool and Farm BSC.](https://olive-cash.medium.com/protect-our-oceans-with-aquagoat-68bb5a33a828)  
+11th May 2021 —[Fly high with Birdy Finance](https://olive-cash.medium.com/fly-high-with-birdy-finance-4f054b7765c1)   
   
 ⏱**In progress:**  
+_Listing._ Gate.io  — Request sent. Waiting for review.  
 _Listing._ CoinMarketCap  — Request sent. Waiting for review.  
 _Feature._ Site redesign. Add table of Farms for convient navigation.  
 _Feature._ Estimation of the total staked liquidity in $ \(Avax imlemented, BSC soon\).  
 _Feature_. **Olive Auto Watering**. Implement vaults with auto compound features.  
-_Feature:_ Tokenomics updates. Autoburn after buyback on Community demand.
+_Feature:_ Tokenomics updates .**Olive** **Fires how**: Autoburn after buyback on Community demand.
 
   
 🚀**TODO:**  
 May 2021 — **TOP 3 Avalance DEX based on TVL**.  
 May 2021 — Comminity demand features: **Lottery**, IFO etc.  
-May 2021 — **NFT** marketplace where people can buy and sell NFTs using only Olive tokens.  
+June 2021 — **NFT** marketplace where people can buy and sell NFTs using only Olive tokens.  
 In future — **Bridge** Avalanche &lt;-&gt; BSC for Olive tokens \(check community opinion about priority\).  
   
 👨‍💻**Backlog:**  
