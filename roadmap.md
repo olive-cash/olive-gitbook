@@ -32,6 +32,7 @@ description: 'What has been done, what we are doing now and what we are planning
 5th May 2021 — [Gondola Finance Pool and Farm at Avalanche.](https://olive-cash.medium.com/to-new-heights-with-gondola-7d0d7d210e24?source=follow_footer---------0----------------------------)  
 7th May 2021 — [AquaGoat Pool and Farm BSC.](https://olive-cash.medium.com/protect-our-oceans-with-aquagoat-68bb5a33a828)  
 11th May 2021 —[Fly high with Birdy Finance](https://olive-cash.medium.com/fly-high-with-birdy-finance-4f054b7765c1)   
+12th May 2021 —[Don’t let Moon be safe with UnSafeMoon](https://olive-cash.medium.com/dont-let-moon-be-safe-with-unsafemoon-b807aeaaaf46)  
   
 ⏱**In progress:**  
 _Listing._ Gate.io  — Request sent. Waiting for review.  
@@ -39,7 +40,7 @@ _Listing._ CoinMarketCap  — Request sent. Waiting for review.
 _Feature._ Site redesign. Add table of Farms for convient navigation.  
 _Feature._ Estimation of the total staked liquidity in $ \(Avax imlemented, BSC soon\).  
 _Feature_. **Olive Auto Watering**. Implement vaults with auto compound features.  
-_Feature:_ Tokenomics updates .**Olive** **Fires how**: Autoburn after buyback on Community demand.
+_Feature:_ Tokenomics updates. **Olive** **Fire show**: Autoburn after buyback on Community demand.
 
   
 🚀**TODO:**  
