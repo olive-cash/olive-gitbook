@@ -16,6 +16,12 @@ description: Popular Questions from our community
 **How to use OliveCash on BSC with TrustWallet?**  
 [Video tutorial](https://www.youtube.com/watch?v=oqZAf_alvG0)  
   
+**How to use OliveCash on Avalanche**  
+[Video tutorial](https://www.youtube.com/watch?v=vgph0hsk2oI&t=4s)  
+  
+**How to use OliveCash Pools on Avalanche**  
+[Video tutorial](https://www.youtube.com/watch?v=txJ1e64eAlc)  
+  
 **How to configure Metamask to connect Avalanche?**  
 [https://support.avalabs.org/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche](https://support.avalabs.org/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche)  
   
