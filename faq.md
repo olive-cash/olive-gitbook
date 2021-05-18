@@ -49,6 +49,9 @@ Our code is audited by many community devs, and verified by time. We can discuss
 **When bridge?**  
 Yes, we planned to build a bridge between two chains \(BSC&lt;&gt;Avalanche\) on the first day of the project. But now move implementation of bridge to one month. Cause we can't mint Olive tokens in both chains and we have to motivate our Olive holder to take part in liquidity providing for special Bridge Pool.  
   
+**Why did olive cash stop showing price on trust wallet?**  
+TrustWallet shows Olive price when it has 100k Trading Volume.  
+  
 **Have a question?**  
 [Ask it in Community channel](https://t.me/olive_cash_chat)  
 or  
