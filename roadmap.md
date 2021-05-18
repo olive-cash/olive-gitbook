@@ -35,6 +35,9 @@ description: 'What has been done, what we are doing now and what we are planning
 12th May 2021 —[Don’t let Moon be safe with UnSafeMoon](https://olive-cash.medium.com/dont-let-moon-be-safe-with-unsafemoon-b807aeaaaf46)  
 13th May 2021 —[Crypto Monkey Empire](https://olive-cash.medium.com/crypto-monkey-empire-b1e51efe5ab7)  
 14th May 2021 — [Welcome Sled.Finance with two tokens](https://olive-cash.medium.com/welcome-sled-finance-with-two-tokens-f640425787fa?source=your_stories_page-------------------------------------)  
+15th May 2021 — [Do you like dogs as we like them](https://olive-cash.medium.com/do-you-like-dogs-as-we-like-them-8fb333c89fef)   
+18th May 2021 — Bounty Program for Partnership Hunters.
+
   
 ⏱**In progress:**  
 _Listing._ Gate.io  — Request sent. Waiting for review.  
@@ -48,7 +51,7 @@ _Feature:_ Tokenomics updates. **Olive** **Fire show**: Autoburn after buyback o
 🚀**TODO:**  
 May 2021 — **TOP 3 Avalance DEX based on TVL**.  
 May 2021 — Comminity demand features: **Lottery**, IFO etc.  
-June 2021 — **NFT** marketplace where people can buy and sell NFTs using only Olive tokens.  
+July 2021 — **NFT** marketplace where people can buy and sell NFTs using only Olive tokens.  
 In future — **Bridge** Avalanche &lt;-&gt; BSC for Olive tokens \(check community opinion about priority\).  
   
 👨‍💻**Backlog:**  
