@@ -15,6 +15,7 @@ description: Popular Questions from our community
   
 **How to use OliveCash on BSC with TrustWallet?**  
 [Video tutorial](https://www.youtube.com/watch?v=oqZAf_alvG0)  
+[Video tutorial by Crypto Ray](https://youtu.be/UI0vWpKmgyk)  
   
 **How to use OliveCash on Avalanche**  
 [Video tutorial](https://www.youtube.com/watch?v=vgph0hsk2oI&t=4s)  
