@@ -36,7 +36,10 @@ description: 'What has been done, what we are doing now and what we are planning
 13th May 2021 —[Crypto Monkey Empire](https://olive-cash.medium.com/crypto-monkey-empire-b1e51efe5ab7)  
 14th May 2021 — [Welcome Sled.Finance with two tokens](https://olive-cash.medium.com/welcome-sled-finance-with-two-tokens-f640425787fa?source=your_stories_page-------------------------------------)  
 15th May 2021 — [Do you like dogs as we like them](https://olive-cash.medium.com/do-you-like-dogs-as-we-like-them-8fb333c89fef)   
-18th May 2021 — Bounty Program for Partnership Hunters.
+18th May 2021 — Bounty Program for Partnership Hunters.  
+19th May 2021 — [Welcome Complus Network](https://olive-cash.medium.com/welcome-complus-network-2f06c01f71fa)  
+20th May 2021 — [Welcome Zero Exchange](https://olive-cash.medium.com/welcome-zero-exchange-c7102ee7f114)  
+25th May 2021 — [Welcome FARMAGEDDON](https://olive-cash.medium.com/welcome-farmageddon-fe82d37d7f9f)
 
   
 ⏱**In progress:**  
