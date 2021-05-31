@@ -39,22 +39,22 @@ description: 'What has been done, what we are doing now and what we are planning
 18th May 2021 — Bounty Program for Partnership Hunters.  
 19th May 2021 — [Welcome Complus Network](https://olive-cash.medium.com/welcome-complus-network-2f06c01f71fa)  
 20th May 2021 — [Welcome Zero Exchange](https://olive-cash.medium.com/welcome-zero-exchange-c7102ee7f114)  
-25th May 2021 — [Welcome FARMAGEDDON](https://olive-cash.medium.com/welcome-farmageddon-fe82d37d7f9f)
+25th May 2021 — [Welcome FARMAGEDDON](https://olive-cash.medium.com/welcome-farmageddon-fe82d37d7f9f)  
+31st May 2021 — [Auto-Compounding Pool is now live!](https://olive-cash.medium.com/auto-compounding-pool-is-now-live-7f20b217756d) + _Feature._ Estimation of the total staked liquidity in $.
 
   
 ⏱**In progress:**  
 _Listing._ Gate.io  — Request sent. Waiting for review.  
 _Listing._ CoinMarketCap  — Request sent. Waiting for review.  
-_Feature._ Site redesign. Add table of Farms for convient navigation.  
-_Feature._ Estimation of the total staked liquidity in $ \(Avax imlemented, BSC soon\).  
+_Feature._ Avalanche Site redesign \(similar to BSC + add table of Farms for convient navigation.  
 _Feature_. **Olive Auto Watering**. Implement vaults with auto compound features.  
 _Feature:_ Tokenomics updates. **Olive** **Fire show**: Autoburn after buyback on Community demand.
 
   
 🚀**TODO:**  
-May 2021 — **TOP 3 Avalance DEX based on TVL**.  
-May 2021 — Comminity demand features: **Lottery**, IFO etc.  
-July 2021 — **NFT** marketplace where people can buy and sell NFTs using only Olive tokens.  
+June 2021 — **TOP 3 Avalance DEX based on TVL**.  
+June 2021 — Comminity demand features: **Lottery**, IFO etc.  
+June 2021 — **NFT** marketplace where people can buy and sell NFTs using only Olive tokens.  
 In future — **Bridge** Avalanche &lt;-&gt; BSC for Olive tokens \(check community opinion about priority\).  
   
 👨‍💻**Backlog:**  
