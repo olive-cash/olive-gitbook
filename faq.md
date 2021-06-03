@@ -17,7 +17,7 @@ description: Popular Questions from our community
 [Video tutorial](https://www.youtube.com/watch?v=oqZAf_alvG0)  
 [Video tutorial by Crypto Ray](https://youtu.be/UI0vWpKmgyk)  
   
-**How to use OliveCash on Avalanche**  
+**How to use OliveCash on Avalanche \(Liquidity Staking\)**  
 [Video tutorial](https://www.youtube.com/watch?v=vgph0hsk2oI&t=4s)  
   
 **How to use OliveCash Pools on Avalanche**  
