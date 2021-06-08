@@ -5,6 +5,7 @@
 * [Olive Garden](olive-garden.md)
 * [Olive Auto Watering](olive-auto-watering.md)
 * [Olive Fire Show](olive-fire-show.md)
+* [Valults](valults.md)
 * [FAQ](faq.md)
 * [Links](links.md)
 
