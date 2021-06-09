@@ -57,7 +57,7 @@ _Feature_. **Olive Vaults.**
 🚀**TODO:**  
 June 2021 — **TOP 3 Avalance DEX based on TVL**.  
 June 2021 — Comminity demand features: Lottery, Predictions, IFO etc.  
-June 2021 — **NFT** marketplace where people can buy and sell NFTs.  
+July 2021 — **NFT** marketplace where people can buy and sell NFTs.  
 In future — **Bridge** Avalanche &lt;-&gt; BSC for Olive tokens \(check community opinion about priority\).  
   
 👨‍💻**Backlog:**  
