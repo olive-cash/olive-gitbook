@@ -51,7 +51,7 @@ description: 'What has been done, what we are doing now and what we are planning
 ⏱**In progress:**  
 _Listing._ Gate.io  — Request sent. Waiting for review.  
 _Listing._ CoinMarketCap  — Request sent. Waiting for review.  
-_Feature_. **Olive Valults.**
+_Feature_. **Olive Vaults.**
 
   
 🚀**TODO:**  

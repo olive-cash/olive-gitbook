@@ -1,4 +1,4 @@
-# Valults
+# Vaults
 
 To be done
 
