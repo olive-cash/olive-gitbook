@@ -42,10 +42,14 @@ description: 'What has been done, what we are doing now and what we are planning
 25th May 2021 — [Welcome FARMAGEDDON](https://olive-cash.medium.com/welcome-farmageddon-fe82d37d7f9f)  
 31st May 2021 — [Auto-Compounding Pool BSC is now live!](https://olive-cash.medium.com/auto-compounding-pool-is-now-live-7f20b217756d)  
 1st June 2021 — [Neko](https://olive-cash.medium.com/welcome-neko-e5f3f62621a2), [Leopard](https://olive-cash.medium.com/welcome-leopard-3970aa87c37e),  [GAPT](https://olive-cash.medium.com/welcome-gapt-fec94df33865)  
-2nd June 2021 — [Avalaunch](https://olive-cash.medium.com/welcome-avalaunch-4e15c00998c0), [MKC](https://olive-cash.medium.com/crypto-monkey-empire-comes-bsc-d7778346657a), [MoonRabbit](https://olive-cash.medium.com/welcome-moonrabbit-6b049c1585d)  
+2nd June 2021 — [Avalaunch](https://olive-cash.medium.com/welcome-avalaunch-4e15c00998c0),   
 3rd June 2021 — Auto-Compound Pool Avalanche is deployed.  
 4th June 2021 — [Take care of your safety with MR.ROOBOT](https://olive-cash.medium.com/take-care-of-your-safety-with-mr-roobot-f9e86cf44103)  
-6th June 2021 — [Olive Fire Show was implemented at Avalanche chain.](https://olive-cash.medium.com/big-fire-show-on-avalanche-chain-ebff4905bf72)
+6th June 2021 — [Olive Fire Show was implemented at Avalanche chain.](https://olive-cash.medium.com/big-fire-show-on-avalanche-chain-ebff4905bf72)  
+7th June 2021 — [MoonRabbit](https://olive-cash.medium.com/welcome-moonrabbit-6b049c1585d)  
+8th June 2021 — [MKC](https://olive-cash.medium.com/crypto-monkey-empire-comes-bsc-d7778346657a)  
+11th June 2021 —[AS SWEET AS BUBBLEGUM](https://olive-cash.medium.com/as-sweet-as-bubblegum-10d1931c0510)  
+15th June 2021 —[WSPP](https://olive-cash.medium.com/welcome-wspp-edfdb73155cb), [UltraNFT](https://olive-cash.medium.com/welcome-ultra-nft-75505644be5d), [TeamTrees](https://olive-cash.medium.com/welcome-teamtrees-da48328e42a), [Beryl](https://olive-cash.medium.com/welcome-beryl-60328f1a90ea), [Brigadeiro](https://olive-cash.medium.com/welcome-brigadeiro-6dc8d19566fc)
 
   
 ⏱**In progress:**  
