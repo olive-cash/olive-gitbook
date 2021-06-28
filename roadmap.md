@@ -28,6 +28,7 @@ description: 'What has been done, what we are doing now and what we are planning
 28th April 2021 — New Pool and Farm in the Olive Garden - [Welcome LydiaFinance](https://olive-cash.medium.com/lydia-finance-9f1593011917)  
 29th April 2021 — Big token burn! BSC side ~30k [$Olive](https://bscscan.com/tx/0x9cc359629300144590a3b12c9ca245a5aa5e516a8a9dabadab2fa0d70a2fd5d3) and Avalanche side ~1000 [$Olive](https://cchain.explorer.avax.network/tx/0x7e4d319d96e7c9c9410d8a4531d23d7adce5009e1784131ebefa4ded4e6d3686/token-transfers) to burn.  
 30th April 2021 — Spora Pool BSC, [2000 new Wallets Airdrop](https://twitter.com/OliveCashBsc/status/1388094476577558532).  
+30th Arpril 2021 - TOP 3 Avalance DEX based on TVL ****[https://imgur.com/Dd8VzWj](https://imgur.com/Dd8VzWj)  
 3rd May 2021 — [Spora Pool Avax](https://olive-cash.medium.com/now-spores-are-everywhere-5d73c8e9fad7), [Doge Pool BSC](https://olive-cash.medium.com/lets-send-dogs-to-the-moon-40c5832e261).  
 5th May 2021 — [Gondola Finance Pool and Farm at Avalanche.](https://olive-cash.medium.com/to-new-heights-with-gondola-7d0d7d210e24?source=follow_footer---------0----------------------------)  
 7th May 2021 — [AquaGoat Pool and Farm BSC.](https://olive-cash.medium.com/protect-our-oceans-with-aquagoat-68bb5a33a828)  
@@ -49,24 +50,27 @@ description: 'What has been done, what we are doing now and what we are planning
 7th June 2021 — [MoonRabbit](https://olive-cash.medium.com/welcome-moonrabbit-6b049c1585d)  
 8th June 2021 — [MKC](https://olive-cash.medium.com/crypto-monkey-empire-comes-bsc-d7778346657a)  
 11th June 2021 —[AS SWEET AS BUBBLEGUM](https://olive-cash.medium.com/as-sweet-as-bubblegum-10d1931c0510)  
-15th June 2021 —[WSPP](https://olive-cash.medium.com/welcome-wspp-edfdb73155cb), [UltraNFT](https://olive-cash.medium.com/welcome-ultra-nft-75505644be5d), [TeamTrees](https://olive-cash.medium.com/welcome-teamtrees-da48328e42a), [Beryl](https://olive-cash.medium.com/welcome-beryl-60328f1a90ea), [Brigadeiro](https://olive-cash.medium.com/welcome-brigadeiro-6dc8d19566fc)
+14th June 2021 —[WSPP](https://olive-cash.medium.com/welcome-wspp-edfdb73155cb), [UltraNFT](https://olive-cash.medium.com/welcome-ultra-nft-75505644be5d), [TeamTrees](https://olive-cash.medium.com/welcome-teamtrees-da48328e42a), [Beryl](https://olive-cash.medium.com/welcome-beryl-60328f1a90ea), [Brigadeiro](https://olive-cash.medium.com/welcome-brigadeiro-6dc8d19566fc)  
+21th June 2021 — [Little Rabbit](https://olive-cash.medium.com/welcome-little-rabbit-e4d9ea59de6d), [Charix](https://olive-cash.medium.com/welcome-charix-38884a268ef5), [Truck Driver](https://olive-cash.medium.com/welcome-truck-driver-66593996ff66), [To Uranus](https://olive-cash.medium.com/welcome-to-touranus-6b98bd041cc5), [Avaware](https://olive-cash.medium.com/welcome-avaware-c1d1dbaac862), [ColdKoala](https://olive-cash.medium.com/welcome-coldkoala-7f83c7ebf02f), [Lydia](https://olive-cash.medium.com/the-lion-we-all-adore-c66ee911f419),   
+27th June 2021 — [CoinMarketCap listing.](https://coinmarketcap.com/currencies/olive-cash/)  
+28th June 2021 — [InuNeko](https://olive-cash.medium.com/welcome-inuneko-cf720b5b19ad), [GAP](https://olive-cash.medium.com/welcome-gap-dc004d3e1496)
 
   
 ⏱**In progress:**  
 _Listing._ Gate.io  — Request sent. Waiting for review.  
-_Listing._ CoinMarketCap  — Request sent. Waiting for review.  
-_Feature_. **Olive Vaults.**
+_Development_. Olive Vaults.  
+****_Development_. New chains \(Polygon, Fantom, Arbitrum\).
 
   
 🚀**TODO:**  
-June 2021 — **TOP 3 Avalance DEX based on TVL**.  
-June 2021 — Comminity demand features: Lottery, Predictions, IFO etc.  
-July 2021 — **NFT** marketplace where people can buy and sell NFTs.  
+July 2021 — Add new Chain.  
+July 2021 — Comminity demand features: Lottery, Predictions, IFO etc.  
+August 2021 — **NFT** marketplace where people can buy and sell NFTs.  
 In future — **Bridge** Avalanche &lt;-&gt; BSC for Olive tokens \(check community opinion about priority\).  
   
 👨‍💻**Backlog:**  
 _Marketing._ Compose Burning/Airdrop milestones.  
 _Marketing._ Bounty program for code contributors, volunteers, media influencers.  
-_Development_. New chains \(Polygon, Fantom, Arbitrum\).  
+  
 ****
 
