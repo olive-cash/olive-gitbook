@@ -16,7 +16,7 @@ Tx Ownership to MasterChef: [https://bscscan.com/tx/0xea59ff8d8bc5813d432b6f58b0
 
 1 Olive per block
 
-10% will be sent to the developer’s address for further partnership & developer funds.
+9,09% will be sent to the developer’s address for further partnership & developer funds.
 
 **Fair launch**
 
