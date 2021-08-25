@@ -55,7 +55,8 @@ description: 'What has been done, what we are doing now and what we are planning
 27th June 2021 — [CoinMarketCap listing.](https://coinmarketcap.com/currencies/olive-cash/)  
 28th June 2021 — [InuNeko](https://olive-cash.medium.com/welcome-inuneko-cf720b5b19ad), [GAP](https://olive-cash.medium.com/welcome-gap-dc004d3e1496)  
 5th July 2021 —[FB](https://olive-cash.medium.com/farmageddon-becomes-the-crypto-platform-51b084650fad), [BBG](https://olive-cash.medium.com/very-long-lasting-bubblegum-50cf1e30add), [UNFT](https://olive-cash.medium.com/we-need-more-nft-d1d751545ab6), [LAIKA](https://olive-cash.medium.com/welcome-laika-1b5b0b53d9f9), [BLAST](https://olive-cash.medium.com/welcome-blastoff-finance-e238e1c3073c)  
-12th July 2021 — [Brigadeiro](https://olive-cash.medium.com/brigadeiro-returns-f92f354ad2f8), [MKC](https://olive-cash.medium.com/crypto-monkey-empire-forever-756a0837adec), [ROTO](https://olive-cash.medium.com/welcome-rotomoon-f25bfe29cb78), [GAPT](https://olive-cash.medium.com/gapt-returns-777c159a852), [EGGC](https://olive-cash.medium.com/welcome-eggchain-d4f586118f00), [LTRBT](https://olive-cash.medium.com/little-rabbit-jumped-back-fe5885026985)
+12th July 2021 — [Brigadeiro](https://olive-cash.medium.com/brigadeiro-returns-f92f354ad2f8), [MKC](https://olive-cash.medium.com/crypto-monkey-empire-forever-756a0837adec), [ROTO](https://olive-cash.medium.com/welcome-rotomoon-f25bfe29cb78), [GAPT](https://olive-cash.medium.com/gapt-returns-777c159a852), [EGGC](https://olive-cash.medium.com/welcome-eggchain-d4f586118f00), [LTRBT](https://olive-cash.medium.com/little-rabbit-jumped-back-fe5885026985)  
+25th August 2021 - [DeBank listing](https://twitter.com/DeBankDeFi/status/1430503474073010185)
 
   
 ⏱**In progress:**  
@@ -65,9 +66,9 @@ _Development_. Olive Vaults.
 
   
 🚀**TODO:**  
-July 2021 — Add new Chain.  
-July 2021 — Comminity demand features: Lottery, Predictions, IFO etc.  
-August 2021 — **NFT** marketplace where people can buy and sell NFTs.  
+August 2021 — Add new Chain.  
+August 2021 — Comminity demand features: Lottery, Predictions, IFO etc.  
+September 2021 — **NFT** marketplace where people can buy and sell NFTs.  
 In future — **Bridge** Avalanche &lt;-&gt; BSC for Olive tokens \(check community opinion about priority\).  
   
 👨‍💻**Backlog:**  
