@@ -5,7 +5,7 @@ description: We build cross chain DEX
 # Intro
 
   
-- **OliveCash** is a cross chain **Yield Farming** project running on Binance Smart Chain Avalanche chain.  
+- **OliveCash** is a cross chain **Yield Farming** project running on Avalanche, Binance Smart Chain and Fantom chain.  
 - **OliveCash** is not only Meme Coins **Launchpad**.   
 - **OliveCash** do [@PancakeSwap](https://twitter.com/PancakeSwap) job for those who are not added there.  
   

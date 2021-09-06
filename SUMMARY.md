@@ -19,6 +19,10 @@
 * [Binance Smart Chain](bsc-1/bsc.md)
 * [Audit](bsc-1/audit-1.md)
 
+## Fantom
+
+* [Fantom Opera](fantom/fantom-opera.md)
+
 ## Links <a id="links-1"></a>
 
 * [Twitter](https://twitter.com/OliveCashBsc)
