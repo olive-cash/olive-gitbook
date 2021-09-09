@@ -4,6 +4,18 @@ description: Popular Questions from our community
 
 # FAQ
 
+  
+**How can I buy $Olive on Fantom Opera Chain?**
+
+
+
+1. [Add Fantom Opera to Metamask.](https://docs.fantom.foundation/tutorials/set-up-metamask)
+2. If you have BNB convert it to Usdc\(bep20\) through [PCS](https://pancakeswap.finance/swap).
+3. Go to [http://bridge.evodefi.com](http://bridge.evodefi.com) Select BSC to Fantom Unlock wallet Press send
+4. Once you'll receive your usdc\(Fantom\) covert it to FTM for gas purposes.
+5. Buy fOlive using FTM on [OliveCash](https://fantom.olive.cash/swap?outputCurrency=0xA9937092c4E2B0277C16802Cc8778D252854688A).
+
+  
 **How can I buy $Olive on Avalanche Chain?**  
 1. Buy $AVAX on exchange  
 2. Withdraw $AVAX to your [X-Chain address](https://wallet.avax.network)  
