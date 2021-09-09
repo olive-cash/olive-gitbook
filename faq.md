@@ -7,8 +7,6 @@ description: Popular Questions from our community
   
 **How can I buy $Olive on Fantom Opera Chain?**
 
-
-
 1. [Add Fantom Opera to Metamask.](https://docs.fantom.foundation/tutorials/set-up-metamask)
 2. If you have BNB convert it to Usdc\(bep20\) through [PCS](https://pancakeswap.finance/swap).
 3. Go to [http://bridge.evodefi.com](http://bridge.evodefi.com) Select BSC to Fantom Unlock wallet Press send
