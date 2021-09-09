@@ -57,25 +57,23 @@ description: 'What has been done, what we are doing now and what we are planning
 5th July 2021 —[FB](https://olive-cash.medium.com/farmageddon-becomes-the-crypto-platform-51b084650fad), [BBG](https://olive-cash.medium.com/very-long-lasting-bubblegum-50cf1e30add), [UNFT](https://olive-cash.medium.com/we-need-more-nft-d1d751545ab6), [LAIKA](https://olive-cash.medium.com/welcome-laika-1b5b0b53d9f9), [BLAST](https://olive-cash.medium.com/welcome-blastoff-finance-e238e1c3073c)  
 12th July 2021 — [Brigadeiro](https://olive-cash.medium.com/brigadeiro-returns-f92f354ad2f8), [MKC](https://olive-cash.medium.com/crypto-monkey-empire-forever-756a0837adec), [ROTO](https://olive-cash.medium.com/welcome-rotomoon-f25bfe29cb78), [GAPT](https://olive-cash.medium.com/gapt-returns-777c159a852), [EGGC](https://olive-cash.medium.com/welcome-eggchain-d4f586118f00), [LTRBT](https://olive-cash.medium.com/little-rabbit-jumped-back-fe5885026985)  
 25th August 2021 - [DeBank listing](https://twitter.com/DeBankDeFi/status/1430503474073010185)  
-8th September 2021 - Fantom Opera chain unlocked.  
-9th September 2021 - Rewards for community contributors was distributed.
+1st September 2021 —  Composed Burning/Airdrop milestones. \(twice per month\)  
+8th September 2021 — Fantom Opera chain unlocked.  
+9th September 2021 — Bounty program for code contributors, volunteers, media influencers. Rewards for community contributors were distributed first time \(~4000$\)  
+
 
   
 ⏱**In progress:**  
 _Listing._ Gate.io  — Request sent. Waiting for review.  
 _Development_. Olive Vaults.  
-****_Development_. New chains \(Polygon, Fantom, Arbitrum\).
+****_Development_. New chains \(Polygon, Harmony, Arbitrum\).
 
   
 🚀**TODO:**  
-August 2021 — Add new Chain.  
-August 2021 — Comminity demand features: Lottery, Predictions, IFO etc.  
-September 2021 — **NFT** marketplace where people can buy and sell NFTs.  
-In future — **Bridge** Avalanche &lt;-&gt; BSC for Olive tokens \(check community opinion about priority\).  
-  
-👨‍💻**Backlog:**  
-_Marketing._ Compose Burning/Airdrop milestones.  
-_Marketing._ Bounty program for code contributors, volunteers, media influencers.  
-  
+September 2021 — Add new Chain.  
+October 2021 — Add new Chain.  
+November 2021 — Comminity demand features: Lottery, Predictions, IFO etc.  
+November 2021 — **NFT** marketplace where people can buy and sell NFTs.  
+In future — **Bridge** Avalanche &lt;-&gt; BSC &lt;-&gt; Fantom for Olive tokens \(check community opinion about priority\).  
 ****
 
