@@ -59,7 +59,7 @@ description: 'What has been done, what we are doing now and what we are planning
 25th August 2021 - [DeBank listing](https://twitter.com/DeBankDeFi/status/1430503474073010185)  
 1st September 2021 —  Composed Burning/Airdrop milestones. \(twice per month\)  
 8th September 2021 — Fantom Opera chain unlocked.  
-9th September 2021 — Bounty program for code contributors, volunteers, media influencers. Rewards for community contributors were distributed first time \(~4000$\)  
+9th September 2021 — Bounty program for code contributors, volunteers, media influencers. Rewards for community contributors were distributed first time \(~8000$\).  
 
 
   
@@ -70,10 +70,10 @@ _Development_. Olive Vaults.
 
   
 🚀**TODO:**  
-September 2021 — Add new Chain.  
 October 2021 — Add new Chain.  
+November 2021 — Add new Chain.  
 November 2021 — Comminity demand features: Lottery, Predictions, IFO etc.  
-November 2021 — **NFT** marketplace where people can buy and sell NFTs.  
+December 2021 — **NFT** marketplace where people can buy and sell NFTs.  
 In future — **Bridge** Avalanche &lt;-&gt; BSC &lt;-&gt; Fantom for Olive tokens \(check community opinion about priority\).  
 ****
 
