@@ -59,20 +59,24 @@ description: What has been done, what we are doing now and what we are planning 
 25th August 2021 - [DeBank listing](https://twitter.com/DeBankDeFi/status/1430503474073010185)\
 1st September 2021 —  Composed Burning/Airdrop milestones. (twice per month)\
 8th September 2021 — Fantom Opera chain unlocked.\
-9th September 2021 — Bounty program for code contributors, volunteers, media influencers. Rewards for community contributors were distributed first time (\~8000$).\
+9th September 2021 — Bounty program for code contributors, volunteers, media influencers. Rewards for community contributors were distributed first time (\~8000$).&#x20;
+
+1st November 2021 - Rewards for community contributors were distributed second time (\~1600$).&#x20;
+
+9th November 2021 - Launched first pool with new concepr Farm-as-a-Service [https://twitter.com/OliveCashBsc/status/1457944187823869952](https://twitter.com/OliveCashBsc/status/1457944187823869952)\
 
 
 \
 ⏱**In progress:**\
-****_Listing._ Gate.io  — Request sent. Waiting for review.\
+****~~_Listing._ Gate.io  — Request sent. Waiting for review.~~\
 _Development_. Olive Vaults.\
 ****_Development_. New chains (Polygon, Harmony, Arbitrum).
 
 \
 🚀**TODO:**\
-****October 2021 — Add new Chain.\
-November 2021 — Add new Chain.\
-November 2021 — Comminity demand features: Lottery, Predictions, IFO etc.\
-December 2021 — **NFT** marketplace where people can buy and sell NFTs.\
+****November 2021 — Add new Chain.\
+December 2021 — Add new Chain.\
+December 2021 — Comminity demand features: Lottery, Predictions, IFO etc.\
+January 2022 — **NFT** marketplace where people can buy and sell NFTs.\
 In future — **Bridge** Avalanche <-> BSC <-> Fantom for Olive tokens (check community opinion about priority).\
 ****
