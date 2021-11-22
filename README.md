@@ -5,7 +5,7 @@ description: We build multi-chain DEX
 # Intro
 
 \
-\- **OliveCash** is a multi-chain **Yield Farming** project running on Avalanche, Binance Smart Chain, and Fantom chain.\
+\- **OliveCash** is a multi-chain **Yield Farming** project running on Avalanche, Binance Smart Chain, Fantom and Polygon chains.\
 \- **OliveCash** is not only Meme Coins **Launchpad**. \
 \- **OliveCash** does [@PancakeSwap](https://twitter.com/PancakeSwap) job for those who are not added there.\
 \
