@@ -19,7 +19,6 @@
 
 * [Binance Smart Chain](bsc-1/bsc.md)
 * [Audit](bsc-1/audit-1.md)
-* [Page 1](bsc-1/page-1.md)
 
 ## Fantom
 
