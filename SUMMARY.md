@@ -19,10 +19,15 @@
 
 * [Binance Smart Chain](bsc-1/bsc.md)
 * [Audit](bsc-1/audit-1.md)
+* [Page 1](bsc-1/page-1.md)
 
 ## Fantom
 
 * [Fantom Opera](fantom/fantom-opera.md)
+
+## Polygon
+
+* [Polygon](polygon/polygon.md)
 
 ## Links <a href="links-1" id="links-1"></a>
 
