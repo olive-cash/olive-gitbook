@@ -4,7 +4,10 @@ description: Popular Questions from our community
 
 # FAQ
 
-\
+**How can use OliveCash on Polygon chain?**
+
+****[**https://www.youtube.com/watch?v=HqMbaUJGr6Y\&feature=youtu.be**](https://www.youtube.com/watch?v=HqMbaUJGr6Y\&feature=youtu.be)****
+
 **How can I buy $Olive on Fantom Opera Chain?**
 
 1. [Add Fantom Opera to Metamask.](https://docs.fantom.foundation/tutorials/set-up-metamask)
