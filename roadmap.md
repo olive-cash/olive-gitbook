@@ -28,7 +28,7 @@ description: What has been done, what we are doing now and what we are planning 
 28th April 2021 — New Pool and Farm in the Olive Garden - [Welcome LydiaFinance](https://olive-cash.medium.com/lydia-finance-9f1593011917)\
 29th April 2021 — Big token burn! BSC side \~30k [$Olive](https://bscscan.com/tx/0x9cc359629300144590a3b12c9ca245a5aa5e516a8a9dabadab2fa0d70a2fd5d3) and Avalanche side \~1000 [$Olive](https://cchain.explorer.avax.network/tx/0x7e4d319d96e7c9c9410d8a4531d23d7adce5009e1784131ebefa4ded4e6d3686/token-transfers) to burn.\
 30th April 2021 — Spora Pool BSC, [2000 new Wallets Airdrop](https://twitter.com/OliveCashBsc/status/1388094476577558532).\
-30th Arpril 2021 - TOP 3 Avalance DEX based on TVL** **[https://imgur.com/Dd8VzWj](https://imgur.com/Dd8VzWj)\
+30th Arpril 2021 - TOP 3 Avalance DEX based on TVL **** [https://imgur.com/Dd8VzWj](https://imgur.com/Dd8VzWj)\
 3rd May 2021 — [Spora Pool Avax](https://olive-cash.medium.com/now-spores-are-everywhere-5d73c8e9fad7), [Doge Pool BSC](https://olive-cash.medium.com/lets-send-dogs-to-the-moon-40c5832e261).\
 5th May 2021 — [Gondola Finance Pool and Farm at Avalanche.](https://olive-cash.medium.com/to-new-heights-with-gondola-7d0d7d210e24?source=follow\_footer---------0----------------------------)\
 7th May 2021 — [AquaGoat Pool and Farm BSC.](https://olive-cash.medium.com/protect-our-oceans-with-aquagoat-68bb5a33a828)\
@@ -61,22 +61,32 @@ description: What has been done, what we are doing now and what we are planning 
 8th September 2021 — Fantom Opera chain unlocked.\
 9th September 2021 — Bounty program for code contributors, volunteers, media influencers. Rewards for community contributors were distributed first time (\~8000$).&#x20;
 
+1st October 2021 - Babyswap lising.
+
 1st November 2021 - Rewards for community contributors were distributed second time (\~1600$).&#x20;
 
-9th November 2021 - Launched first pool with new concepr Farm-as-a-Service [https://twitter.com/OliveCashBsc/status/1457944187823869952](https://twitter.com/OliveCashBsc/status/1457944187823869952)\
+9th November 2021 - Launched first pool with new concepr Farm-as-a-Service [https://twitter.com/OliveCashBsc/status/1457944187823869952](https://twitter.com/OliveCashBsc/status/1457944187823869952)
+
+23th November 2021 — New Polygon chain unlocked.\
 
 
 \
 ⏱**In progress:**\
-****~~_Listing._ Gate.io  — Request sent. Waiting for review.~~\
-_Development_. Olive Vaults.\
-****_Development_. New chains (Polygon, Harmony, Arbitrum).
+****_Development(routine)_. New Partnerships, new Pools and Farms listings.
+
+_Listings_. New DEXes and Wallets listings.&#x20;
+
+_Development_. New protocols to support Olive tokens.
 
 \
-🚀**TODO:**\
-****November 2021 — Add new Chain.\
-December 2021 — Add new Chain.\
-December 2021 — Comminity demand features: Lottery, Predictions, IFO etc.\
-January 2022 — **NFT** marketplace where people can buy and sell NFTs.\
-In future — **Bridge** Avalanche <-> BSC <-> Fantom for Olive tokens (check community opinion about priority).\
+🚀**TODO:**
+
+👨‍💻 Add new Chain (Cronos, Harmony, Arbitrum, HECO etc).\
+🧘‍♂️ Bridge Avalanche <-> BSC <-> Fantom <-> Polygon for Olive tokens (check community opinion about priority).\
+****⭐️ Comminity demand features: Lottery, Predictions, IFO etc.\
+☘️ **** NFT marketplace where people can buy and sell NFTs.
+
+
+
+****\
 ****
