@@ -72,16 +72,16 @@ description: What has been done, what we are doing now and what we are planning 
 
 \
 ⏱**In progress:**\
-****_Development(routine)_. New Partnerships, new Pools and Farms listings.
+****_Development(routine)_. New Partnerships (new Pools and Farms).
 
 _Listings_. New DEXes and Wallets listings.&#x20;
 
 _Development_. New protocols to support Olive tokens.
 
 \
-🚀**TODO:**
+📝**Backlog:**
 
-👨‍💻 Add new Chain (Cronos, Harmony, Arbitrum, HECO etc).\
+👨‍💻 Add new Chains (Cronos, Harmony, Arbitrum, HECO etc).\
 🧘‍♂️ Bridge Avalanche <-> BSC <-> Fantom <-> Polygon for Olive tokens (check community opinion about priority).\
 ****⭐️ Comminity demand features: Lottery, Predictions, IFO etc.\
 ☘️ **** NFT marketplace where people can buy and sell NFTs.
