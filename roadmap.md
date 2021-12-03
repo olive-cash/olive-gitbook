@@ -79,7 +79,7 @@ _Listings_. New DEXes and Wallets listings.&#x20;
 _Development_. New protocols to support Olive tokens.
 
 \
-📝**Backlog:**
+📝**Backlog(On hold):**
 
 👨‍💻 Add new Chains (Cronos, Harmony, Arbitrum, HECO etc).\
 🧘‍♂️ Bridge Avalanche <-> BSC <-> Fantom <-> Polygon for Olive tokens (check community opinion about priority).\
